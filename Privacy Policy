@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - ShotBase</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 600px;
+            margin: 40px auto;
+            padding: 0 20px;
+            color: #111;
+            background-color: #fff;
+        }
+        h1 { font-size: 24px; font-weight: 700; margin-bottom: 5px; }
+        h2 { font-size: 18px; font-weight: 600; margin-top: 30px; margin-bottom: 10px; }
+        p { font-size: 14px; color: #444; }
+        .date { font-size: 12px; color: #888; margin-bottom: 30px; }
+    </style>
+</head>
+<body>
+
+    <h1>Privacy Policy</h1>
+    <div class="date">Last updated: June 2026</div>
+
+    <p>Your privacy is fundamentally important to us. ShotBase is built with a local-first philosophy: your data belongs to you, stays on your device, and is never uploaded to remote servers.</p>
+
+    <h2>1. Information We Collect</h2>
+    <p>We do not collect, store, or transmit any personal data, media, files, or account information. All data processed by ShotBase remains strictly isolated inside the application sandbox on your local device.</p>
+
+    <h2>2. Device Media & Permissions</h2>
+    <p>ShotBase requires access to your device's photo library or file system solely to allow you to import and organize your media within the app. We have zero access to this media, and it is never shared with third parties.</p>
+
+    <h2>3. Face ID & Biometrics</h2>
+    <p>ShotBase uses Face ID or Touch ID solely to lock and unlock folders securely on your device. Biometric data is processed entirely by iOS/Android at the system level; it is never accessed, collected, or stored by ShotBase.</p>
+
+    <h2>4. Purchases & Payments</h2>
+    <p>Premium transactions and lifetime purchases are processed securely and entirely through Apple's App Store or Google Play. We do not collect, view, or store any financial information or credit card numbers.</p>
+
+    <h2>5. Third-Party Analytics</h2>
+    <p>We do not use any third-party tracking tools, analytics libraries, or advertising networks inside the app. Your usage behavior remains entirely private.</p>
+
+    <h2>6. Contact Us</h2>
+    <p>If you have any questions regarding this privacy policy, you can contact us via email at: <strong>support@almostindie.com</strong></p>
+
+</body>
+</html>
